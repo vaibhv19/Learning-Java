@@ -12,7 +12,7 @@ public class WithoutMultiThreading {
     {
         if(i%10==7)
         {
-            count++;
+       
         }
     }
         System.out.println("count="+count);
