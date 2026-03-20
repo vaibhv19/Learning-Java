@@ -17,5 +17,7 @@ public class CF3 {
         //LinkedHashMap
 
         //HashMap doesn’t maintain any order of keys, while LinkedHashMap preserves insertion order.
+
+        
     }
 }
