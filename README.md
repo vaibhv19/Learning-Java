@@ -1,4 +1,4 @@
-# Java Basics - Learning Repository
+# Java - Learning Repository
 
 A comprehensive Java learning project covering fundamental concepts in backend development, organized into key topic areas with practical examples.
 
